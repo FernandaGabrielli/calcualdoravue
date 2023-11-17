@@ -57,7 +57,7 @@ export default {
   </div>
 </template>
 
-<style scoped>
+<style>
 
 body {
     font-family: 'Arial', sans-serif;
@@ -76,11 +76,11 @@ body {
   }
 
   h1 {
-    color: #333;
+    color: #0E8388;
   }
 
   .calculator-container {
-    background-color: #fff;
+    background-color: #2E4F4F;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -99,7 +99,7 @@ body {
     padding: 10px;
     margin-bottom: 16px;
     box-sizing: border-box;
-    border: 1px solid #ddd;
+    border: 1px solid #CBE4DE;
     border-radius: 4px;
     outline: none;
   }
@@ -112,6 +112,6 @@ body {
   p {
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: #CBE4DE;
   }
 </style>
